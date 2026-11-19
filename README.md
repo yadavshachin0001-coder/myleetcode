@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1572-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
