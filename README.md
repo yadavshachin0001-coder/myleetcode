@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
