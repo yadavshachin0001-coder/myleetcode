@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
