@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1486-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
