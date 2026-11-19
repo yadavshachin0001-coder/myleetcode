@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/1603-design-parking-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yadavshachin0001-coder/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
